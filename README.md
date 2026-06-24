@@ -121,7 +121,7 @@ Bot:    We're open Monday–Saturday, 9 AM to 9 PM. 🕘
 **Rashid**
 - 🎓 BS Artificial Intelligence Student
 - 📍 Lahore, Pakistan
-- 🔗 [LinkedIn](www.linkedin.com/in/rashid-manzoor-rm-4662a5374)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/rashid-manzoor-rm-4662a5374)
 - 🐙 [GitHub](https://github.com/seeksforai-alt)
 
 ---
